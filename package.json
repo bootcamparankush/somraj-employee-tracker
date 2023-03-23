@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  },
+  "name": "somraj-employee-tracker",
+  "description": "This repo is for the application development of Employee Tracker using mySQL, CLI, nodejs and inquirer",
+  "version": "1.0.0",
+  "main": "emptracker.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
