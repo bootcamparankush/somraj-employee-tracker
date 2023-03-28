@@ -29,6 +29,10 @@ The following video shows an example of the application being used from the comm
 
 https://youtu.be/n1XbFKQ_URo
 
+Screen shot CLI - Employee Tracker
+![image](https://user-images.githubusercontent.com/120338398/228097888-875a2c28-9cbb-48b5-a80e-8e9517f6523e.png)
+
+
 ## Contributing
 Parankush Somraj, Rutgers Bootcamp instructors and special thank to my fellow student - Mirek
 
