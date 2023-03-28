@@ -7,13 +7,12 @@ const connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
   user: "root",
-  password: "$0mr@jP@ssword", //Enter your MySQL password here.
+  password: "Te$tP@ssword", //Enter your MySQL password here.
   database: "employee_tracker_db"
 });
 
 connection.connect(function(err) {
     if (err) throw err;
-   
     console.log("Connected as ID " + connection.threadId);
     console.clear();
     console.log ("**********************************************");
@@ -320,7 +319,7 @@ function addDept() {
             },
             function(err) {
                 if (err) throw err
-                console.table(res);
+                // console.table(res);
                 runEmployeeDB();
             }
         )
